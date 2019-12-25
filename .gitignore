@@ -1,0 +1,12 @@
+# pytest cache
+.pytest_cache
+__pycache__
+
+# VS Code
+.vscode
+
+# Portfolio Reports
+reports/*
+
+# Personal Files
+config/myPortfolio.py
